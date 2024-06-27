@@ -1,0 +1,30 @@
+.cd-1 {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+.cd-2 {
+  border: 1px solid #475569;
+  color: black;
+  width: 80%;
+  border-radius: 10px;
+}
+.dd-1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.pp {
+  font-size: 15px;
+  padding: 10px;
+}
+h3 {
+  color: #0b69ff;
+}
+.h2 {
+  color: #0b69ff;
+}

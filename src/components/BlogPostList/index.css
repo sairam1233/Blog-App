@@ -1,0 +1,27 @@
+.hh {
+  color: red;
+}
+.dv1 {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.btn {
+  background-color: #0b69ff;
+  color: white;
+  font-family: 'Roboto';
+  border: 1px solid;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+  padding: 8px;
+}
+.h3 {
+  font-family: 'bree serif';
+  ont-size: 72px;
+  background: -webkit-linear-gradient(#0b69ff, #171f46);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
